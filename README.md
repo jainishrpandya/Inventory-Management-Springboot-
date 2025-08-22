@@ -119,8 +119,3 @@ Technologies used:
 * **Spring Boot Test** for integration tests
 
 ```
-
----
-
-Would you like me to also add a **screenshots/demo section** in this README so it looks more attractive on GitHub?
-```
